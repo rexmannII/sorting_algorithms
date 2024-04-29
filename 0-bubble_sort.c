@@ -8,7 +8,9 @@
  * bubble_sort - this function sorts an array of integers in ascending order
  * @array: is the array
  * @size: is the size of the array
+ *
  */
+
 
 void bubble_sort(int *array, size_t size)
 {
